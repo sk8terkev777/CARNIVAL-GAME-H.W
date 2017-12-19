@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Carnival Game.data.unityweb",
+"asmCodeUrl": "Carnival Game.asm.code.unityweb",
+"asmMemoryUrl": "Carnival Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Carnival Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
